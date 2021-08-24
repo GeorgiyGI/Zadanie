@@ -1,5 +1,7 @@
 package com.company;
 
+// Задание 3
+
 import java.util.Arrays;
 
 public class Main {
